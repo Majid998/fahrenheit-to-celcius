@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607187926 source:c:\users\mac\documents\programs\c programs\fahrrenheit to celcius\main.c
+	<stdio.h>
+	<stdlib.h>
+
